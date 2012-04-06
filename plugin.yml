@@ -1,0 +1,8 @@
+ate name: Heal
+main: me.marcus.Heal.Heal
+version: 0.1
+description: >
+             Heal you or another Player.
+commands:
+  heal:
+    description: Heal you or another Player.
